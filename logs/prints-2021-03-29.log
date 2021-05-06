@@ -1,0 +1,7 @@
+08:29:09.918 [main] INFO  resources.Base - HomePage: Driver is Initialized
+08:29:30.125 [main] INFO  resources.Base - HomePage: Successfully open URL
+08:29:30.610 [main] INFO  resources.Base - HomePage: Opening Login page
+08:29:32.270 [main] INFO  resources.Base - HomePage: User Name User-01
+08:29:32.986 [main] INFO  resources.Base - HomePage: Clicked in Login button
+08:29:39.731 [main] INFO  resources.Base - HomePage: Successfully logged out
+08:29:53.380 [main] INFO  resources.Base - HomePage: Opening Login page

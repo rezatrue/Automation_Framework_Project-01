@@ -1,0 +1,6 @@
+15:57:23.996 [TestNG-tests-1] INFO  resources.Base - HomePage: Driver is Initialized
+15:58:01.296 [TestNG-tests-3] INFO  resources.Base - NavigationBar Validation: Opening Login page
+15:58:04.958 [TestNG-tests-3] INFO  resources.Base - NavigationBar Validation: Clicked in Login button
+15:58:05.214 [TestNG-tests-3] INFO  resources.Base - NavigationBar Validation:  Nav Dispalyed
+15:58:08.336 [TestNG-tests-2] INFO  resources.Base - Login Page Title validation: Opening Login page
+15:58:09.667 [TestNG-tests-1] INFO  resources.Base - HomePage: Successfully open URL
